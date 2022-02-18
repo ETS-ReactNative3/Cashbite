@@ -41,12 +41,47 @@ If facing any issue while running project, install specific versions of tools us
 
 ## Screens
 
-### 1. Login & SignUp Screen: 
+### 1. Login & SignUp Screen:
+<div align="center" style="display: flex; align-items: center">
+<img src = "images/Login:signup.png" height="360" width="180"/>
+
+  </div>
+
+
 ### 2. OTP Screen:
+<div align="center" style="display: flex; align-items: center">
+<img src = "images/OtpVerify.png" height="360" width="180"/>
+
+  </div>
+
 ### 3. Onboarding Details:
+<div align="center" style="display: flex; align-items: center">
+<img src = "images/OnboardingDetails.png" height="360" width="180"/>
+  </div>
+
 ### 4. Homescreen:
-### 5. Individual Store Screen:
-### 6. Make Profit Link Screen:
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+      <img src = "images/Sidedrawer.png" height="360" width="180"/>
+    <img src = "images/Homescreen1.png" height="360" width="180"/>
+   <img src = "images/Homescreen2.png" height="360" width="180"/>
+    <img src = "images/Homescreen3.png" height="360" width="180"/>
+  
+  </div>
+</div>
+
+### 5. Store Screens:
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src = "images/Allstores.png" height="360" width="180"/>
+  </div>
+</div>
+
+## Working Video
+<div align="center">
+ 
+  </div>
+
 
 
 
