@@ -74,15 +74,16 @@ If facing any issue while running project, install specific versions of tools us
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src = "images/Allstores.png" height="360" width="180"/>
+     <img src = "images/individualstore.png" height="360" width="180"/>
   </div>
 </div>
 
+## And many more....
+
 ## Working Video
-<div align="center">
- 
-  </div>
 
-
+Watch Video Here: 
+https://www.youtube.com/embed/C6NKlwbepZY
 
 
 
